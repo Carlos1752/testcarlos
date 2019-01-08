@@ -1,0 +1,12 @@
+platformName: Android
+platforVsersion: 4.4.4
+deviceName: 小米平板
+uuid: B206201B
+app: G:\com.tencent.tws.gdevicemanager_3.2.181123.782_32181123.apk
+appPackage: com.tencent.tws.gdevicemanager
+appActivity: com.pacewear.devicemanager.common.SplashScreenActivity
+noReset: False
+unicodeKeyvboard: True
+resetKeyboard: True
+ip: localhost
+port: 4723
