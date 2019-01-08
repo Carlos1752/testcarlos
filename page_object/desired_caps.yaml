@@ -1,0 +1,12 @@
+platformName: Android
+platforVsersion: 7.1.1
+deviceName: 360手机 N5
+uuid: c23d076
+app: C:\Users\Administrator\Desktop\com.tencent.tws.gdevicemanager_3.2.181123.782_32181123.apk
+appPackage: com.tencent.tws.gdevicemanager
+appActivity: com.pacewear.devicemanager.common.SplashScreenActivity
+noReset: False
+unicodeKeyvboard: True
+resetKeyboard: True
+ip: localhost
+port: 4723
