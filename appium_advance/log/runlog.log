@@ -1,0 +1,70 @@
+DEBUG:root:debug info
+INFO:root:hello 123456
+WARNING:root:warning info
+ERROR:root:errot info
+CRITICAL:root:cratical info
+DEBUG:root:debug info
+INFO:root:CARLOS
+WARNING:root:warning info
+ERROR:root:errot info
+CRITICAL:root:cratical info
+2018-12-13 17:32:51,892 logging_test.py[line:7]DEBUGdebug info
+2018-12-13 17:32:51,892 logging_test.py[line:8]INFOhello 123456
+2018-12-13 17:32:51,892 logging_test.py[line:9]WARNINGwarning info
+2018-12-13 17:32:51,893 logging_test.py[line:10]ERRORerrot info
+2018-12-13 17:32:51,893 logging_test.py[line:11]CRITICALcratical info
+2018-12-13 17:32:51,893 logging_test.py[line:13]DEBUGdebug info
+2018-12-13 17:32:51,893 logging_test.py[line:14]INFOCARLOS
+2018-12-13 17:32:51,893 logging_test.py[line:15]WARNINGwarning info
+2018-12-13 17:32:51,893 logging_test.py[line:16]ERRORerrot info
+2018-12-13 17:32:51,893 logging_test.py[line:17]CRITICALcratical info
+2018-12-13 17:34:03,785 [line:7]DEBUGdebug info
+2018-12-13 17:34:03,785 [line:8]INFOhello 123456
+2018-12-13 17:34:03,785 [line:9]WARNINGwarning info
+2018-12-13 17:34:03,785 [line:10]ERRORerrot info
+2018-12-13 17:34:03,785 [line:11]CRITICALcratical info
+2018-12-13 17:34:03,785 [line:13]DEBUGdebug info
+2018-12-13 17:34:03,785 [line:14]INFOCARLOS
+2018-12-13 17:34:03,785 [line:15]WARNINGwarning info
+2018-12-13 17:34:03,785 [line:16]ERRORerrot info
+2018-12-13 17:34:03,785 [line:17]CRITICALcratical info
+2018-12-13 17:34:31,958 logging_test.py(levelname)sdebug info
+2018-12-13 17:34:31,959 logging_test.py(levelname)shello 123456
+2018-12-13 17:34:31,959 logging_test.py(levelname)swarning info
+2018-12-13 17:34:31,959 logging_test.py(levelname)serrot info
+2018-12-13 17:34:31,959 logging_test.py(levelname)scratical info
+2018-12-13 17:34:31,959 logging_test.py(levelname)sdebug info
+2018-12-13 17:34:31,959 logging_test.py(levelname)sCARLOS
+2018-12-13 17:34:31,959 logging_test.py(levelname)swarning info
+2018-12-13 17:34:31,959 logging_test.py(levelname)serrot info
+2018-12-13 17:34:31,959 logging_test.py(levelname)scratical info
+2018-12-13 17:35:11,974 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:11,975 logging_test.py(message)s
+2018-12-13 17:35:22,770 logging_test.py[line:7]DEBUGdebug info
+2018-12-13 17:35:22,771 logging_test.py[line:8]INFOhello 123456
+2018-12-13 17:35:22,771 logging_test.py[line:9]WARNINGwarning info
+2018-12-13 17:35:22,771 logging_test.py[line:10]ERRORerrot info
+2018-12-13 17:35:22,771 logging_test.py[line:11]CRITICALcratical info
+2018-12-13 17:35:22,771 logging_test.py[line:13]DEBUGdebug info
+2018-12-13 17:35:22,771 logging_test.py[line:14]INFOCARLOS
+2018-12-13 17:35:22,771 logging_test.py[line:15]WARNINGwarning info
+2018-12-13 17:35:22,771 logging_test.py[line:16]ERRORerrot info
+2018-12-13 17:35:22,771 logging_test.py[line:17]CRITICALcratical info
+2018-12-18 09:50:47,883 logging_test.py[line:7]DEBUGdebug info
+2018-12-18 09:50:47,883 logging_test.py[line:8]INFOhello 123456
+2018-12-18 09:50:47,883 logging_test.py[line:9]WARNINGwarning info
+2018-12-18 09:50:47,883 logging_test.py[line:10]ERRORerrot info
+2018-12-18 09:50:47,883 logging_test.py[line:11]CRITICALcratical info
+2018-12-18 09:50:47,883 logging_test.py[line:13]DEBUGdebug info
+2018-12-18 09:50:47,883 logging_test.py[line:14]INFOCARLOS
+2018-12-18 09:50:47,883 logging_test.py[line:15]WARNINGwarning info
+2018-12-18 09:50:47,883 logging_test.py[line:16]ERRORerrot info
+2018-12-18 09:50:47,883 logging_test.py[line:17]CRITICALcratical info
