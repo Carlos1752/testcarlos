@@ -68,3 +68,13 @@ CRITICAL:root:cratical info
 2018-12-18 09:50:47,883 logging_test.py[line:15]WARNINGwarning info
 2018-12-18 09:50:47,883 logging_test.py[line:16]ERRORerrot info
 2018-12-18 09:50:47,883 logging_test.py[line:17]CRITICALcratical info
+2019-01-09 19:58:57,961 logging_test.py[line:7]DEBUGdebug info
+2019-01-09 19:58:57,997 logging_test.py[line:8]INFOhello 123456
+2019-01-09 19:58:57,997 logging_test.py[line:9]WARNINGwarning info
+2019-01-09 19:58:57,997 logging_test.py[line:10]ERRORerrot info
+2019-01-09 19:58:57,997 logging_test.py[line:11]CRITICALcratical info
+2019-01-09 19:58:57,997 logging_test.py[line:13]DEBUGdebug info
+2019-01-09 19:58:57,997 logging_test.py[line:14]INFOCARLOS
+2019-01-09 19:58:57,997 logging_test.py[line:15]WARNINGwarning info
+2019-01-09 19:58:57,998 logging_test.py[line:16]ERRORerrot info
+2019-01-09 19:58:57,998 logging_test.py[line:17]CRITICALcratical info

@@ -321,3 +321,6 @@
 '2018-12-22 22:35:36,399  --安装与卸载DM_yaml启动.py  --[line:47]  --INFO  --卸载成功...')
 '2018-12-22 22:35:43,100  --安装与卸载DM_yaml启动.py  --[line:64]  --INFO  --关闭APP...')
 '2018-12-22 22:36:01,645  --安装与卸载DM_yaml启动.py  --[line:67]  --INFO  --启动APP...')
+'2019-01-09 20:01:41,836  --login-log.py  --[line:35]  --INFO  --start app...')
+'2019-01-09 20:02:43,826  --login-log.py  --[line:35]  --INFO  --start app...')
+'2019-01-09 20:03:35,119  --login-log.py  --[line:35]  --INFO  --start app...')
